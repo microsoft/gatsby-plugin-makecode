@@ -3,7 +3,7 @@
     "version": "1.0.24",
     "peerDependencies": {
         "puppeteer": "^10.2.0",
-        "sharp": "^0.29.1"
+        "sharp": "^0.30.5"
     },
     "dependencies": {
         "@types/node": "^16.9.1",
@@ -17,7 +17,7 @@
     "devDependencies": {
         "@semantic-release/git": "^9.0.1",
         "puppeteer": "^10.2.0",
-        "sharp": "^0.29.1",
+        "sharp": "^0.30.5",
         "typescript": "^4.4.3"
     },
     "main": "dist/index.js",
